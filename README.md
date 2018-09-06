@@ -1,2 +1,2 @@
-# hom_made-multi_class_perceptron
+# home_made-multi_class_perceptron
 A very basic multi class perceptron using numpy
